@@ -9,3 +9,5 @@ Repository is called as package location
 GITHUB is a Version Control System
 It is a Publishing Tool
 A Collaboration Platform
+A Way to Share and Collaborate with others
+Abitlity to save our process and go back to earlier points in our projects.
