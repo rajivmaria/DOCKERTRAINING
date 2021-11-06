@@ -1,0 +1,5 @@
+Portability
+VM                     | Container               | Cloud
+Virtual Box or VM Ware | Docker or Kubernetes    | AWS or Google or Abur
+GIT is called as
+CI/CD (Continuous Integration / Continuous Deployment)
