@@ -6,3 +6,6 @@ CI/CD (Continuous Integration / Continuous Deployment)
 
 GITHUB is an platform for open source code
 Repository is called as package location
+GITHUB is a Version Control System
+It is a Publishing Tool
+A Collaboration Platform
